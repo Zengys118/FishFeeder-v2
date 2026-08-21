@@ -5,7 +5,7 @@ compiling main.c...
   static uint8_t feed2_triggered = 0;
 ../Core/Src/main.c: 1 warning, 0 errors
 linking...
-Program Size: Code=13272 RO-data=896 RW-data=32 ZI-data=1792  
+Program Size: Code=13264 RO-data=896 RW-data=32 ZI-data=1792  
 FromELF: creating hex file...
 "FishFeeder-v2\FishFeeder-v2.axf" - 0 Error(s), 1 Warning(s).
-Build Time Elapsed:  00:00:01
+Build Time Elapsed:  00:00:04

@@ -314,13 +314,10 @@ else
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-/* USER CODE BEGIN 2 */
+
 
 DEBUG_PRINT("PROGRAM START\r\n");
 
-Stepper_Init();
-
-HAL_Delay(200);
 while (1)
 {
     if (DS3231_ReadTime(&rtc_time) == HAL_OK)
