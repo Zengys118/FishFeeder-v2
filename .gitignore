@@ -1,0 +1,42 @@
+﻿# =========================
+# Keil MDK build outputs
+# =========================
+
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lnp
+*.dep
+*.htm
+*.build_log.htm
+
+# Keil user-specific files
+*.uvguix.*
+*.uvgui.*
+*.bak
+
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+
+# =========================
+# Temporary files
+# =========================
+
+*.tmp
+*.log
+*~
+
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
